@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+.classpath
+.project
+.settings/*
+build/*
+.DS_Store
+**/.DS_Store
+/build/
+*.war
+*.jar
+bin/*
+/bin/
+/target/
+/bin1/
+.idea/*
+!/.idea/runConfigurations/
+*.iml
+
+/logs/
+.settings/
+*.db
+.factorypath
+
