@@ -13,7 +13,7 @@ import java.util.*;
    Third query:  l = 3, r = 6
    O/p - 8
 */
-public class SegmentTree {
+public class SegmentTreeRangeMax {
 
     public static void main(String[] args) {
         int n,i,q,l,r;
